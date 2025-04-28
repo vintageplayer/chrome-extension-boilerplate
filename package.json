@@ -17,8 +17,6 @@
     "url": "https://github.com/vintageplayer/chrome-extension-boilerplate.git"
   },
   "dependencies": {
-    "dotenv": "^16.5.0",
-    "fs": "^0.0.1-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -30,6 +28,8 @@
     "autoprefixer": "^10.4.20",
     "copy-webpack-plugin": "^9.0.1",
     "css-loader": "^7.1.2",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
     "glob": "^7.1.6",
     "jest": "^29.5.0",
     "postcss": "^8.4.41",
